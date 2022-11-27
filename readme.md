@@ -1,7 +1,7 @@
 # みみたやボタン
 
 ## なにこれ？
-[動くものはこちらから。](https://github.com/capkun10/mimitaya-button/)
+[動くものはこちらから。](https://capkun10.github.io/mimitaya-button/ )
 ボタンを押すと、[みみたや](https://www.youtube.com/channel/UCnvVG9RbOW3J6Ifqo-zKLiw/featured?view_as=subscriber)がお話ししてくれます。
 
 ## 実装
